@@ -326,6 +326,7 @@
 
    <!-- Maven plugin versions are mentioned in order to guarantee the build reproducibility in the long term -->
    <build>
+      <finalName>${project.artifactId}</finalName>
       <defaultGoal>install</defaultGoal>
       <testResources>
          <testResource>
@@ -450,7 +451,7 @@
    </reporting>
 
    <url>demopetclinic</url>
-   
+
    <repositories>
       <repository>
          <id>sonatype-nexus-snapshots</id>
