@@ -1,0 +1,19 @@
+{
+    "dependencies": [ "jquery" ],
+    "assets": [
+        {
+            "name": "datatables",
+            "version": "1.10.7",
+            "locations": {
+                "webjar" : "jquery.dataTables.js"
+            }
+        },
+        {
+            "name": "datatables",
+            "version": "1.10.7",
+            "locations": {
+                "webjar" : "jquery.dataTables.css"
+            }
+        }
+    ]
+}

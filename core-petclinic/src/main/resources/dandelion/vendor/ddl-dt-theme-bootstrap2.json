@@ -1,0 +1,21 @@
+{
+    "dependencies": [ "bootstrap2", "datatables" ],
+    "assets": [
+        {
+            "name": "bootstrap2-theme",
+            "version": "1.10.7",
+            "type": "js",
+            "locations": {
+                "jar": "dandelion/datatables/features/themes/bootstrap2/js/dataTables.bootstrap.js"
+            }
+        },
+        {
+            "name": "bootstrap2-theme",
+            "version": "1.10.7",
+            "type": "css",
+            "locations": {
+                "jar": "dandelion/datatables/features/themes/bootstrap2/css/dataTables.bootstrap.css"
+            }
+        }
+    ]
+}

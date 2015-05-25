@@ -1,0 +1,10 @@
+{
+    "dependencies" : [ "bootstrap2", "ddl-dt-theme-bootstrap2" ],
+    "assets": [
+		{
+		    "locations": {
+		        "webapp": "/resources/css/petclinic.css"
+		    }
+		}
+    ]
+}

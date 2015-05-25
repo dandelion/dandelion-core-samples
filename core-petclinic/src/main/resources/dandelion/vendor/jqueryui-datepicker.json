@@ -1,0 +1,11 @@
+{
+    "dependencies" : [ "jqueryui" ],
+    "assets": [
+		{
+		    "version": "1.10.3",
+		    "locations": {
+		        "webjar": "jquery.ui.datepicker.js"
+		    }
+		}
+    ]
+}

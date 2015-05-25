@@ -1,0 +1,10 @@
+{
+    "dependencies" : [ "jqueryui-datepicker" ],
+    "assets": [
+		{
+		    "locations": {
+		        "webapp": "/resources/js/pet.js"
+		    }
+		}
+    ]
+}
