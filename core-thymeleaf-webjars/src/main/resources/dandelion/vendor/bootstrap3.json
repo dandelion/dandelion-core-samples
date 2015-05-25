@@ -1,0 +1,20 @@
+{
+    "bundle" : "bootstrap3",
+    "dependencies" : [ "jquery" ],
+    "assets": [
+        {
+            "version": "3.3.4",
+            "type": "js",
+            "locations": {
+                "remote": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"
+            }
+        },
+        {
+            "version": "3.3.4",
+            "type": "css",
+            "locations": {
+                "remote": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
+            }
+        }
+    ]
+}
