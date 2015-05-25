@@ -1,7 +1,7 @@
 #
 # dandelion/core-jsp-petclinic
 #
-FROM dandelion/sample-tomcat:7.0.62-jdk7
+FROM dandelion/sample-tomcat:7.0.62-jdk8
 MAINTAINER Thibault Duchateau <thibault.duchateau@gmail.com>
 
 ADD . /home/dandelion
