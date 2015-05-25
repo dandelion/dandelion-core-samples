@@ -13,8 +13,8 @@
    <jsp:include page="common/navbar.jsp" />
 
    <div class="container">
-      <div class="row-fluid">
-         <div class="span12">
+      <div class="row">
+         <div class="col-md-12">
             <h2 class="section-title">Asset locators</h2>
             <p>
             	In this example, a bundle called <i>sample-asset-locators</i> is included. 

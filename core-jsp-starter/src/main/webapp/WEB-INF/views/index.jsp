@@ -10,8 +10,8 @@
    <jsp:include page="common/navbar.jsp" />
 
    <div class="container">
-      <div class="row-fluid">
-         <div class="span12">
+      <div class="row">
+         <div class="col-md-12">
             <h2>Welcome to Dandelion!</h2>
             <p>
                This sample application will guide you to understand the key concepts around Dandelion.

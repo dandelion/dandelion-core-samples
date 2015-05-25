@@ -12,8 +12,8 @@
 
    <div class="container">
       
-      <div class="row-fluid">
-         <div class="span12">
+      <div class="row">
+         <div class="col-md-12">
             <h2 class="section-title">Interacting with the bundle graph</h2>
             <h3>Using the API</h3>
             <p>In this example, a bundle is programmatically activated, using the Dandelion API.</p>
@@ -29,8 +29,8 @@ AssetRequestContext.get(request).addBundle("bundle-using-api");
          </div>
       </div>
       
-      <div class="row-fluid">
-         <div class="span12">
+      <div class="row">
+         <div class="col-md-12">
             <div id="msg" class="alert alert-success"></div>
          </div>
       </div>
