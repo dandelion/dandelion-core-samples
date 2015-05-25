@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:ddl="http://www.thymeleaf.org/dandelion">
+
+<head th:include="common/head::head" />
+<body>
+  <div th:replace="common/navbar::navbar"></div>
+  <div class="container">
+    <div class="row-fluid">
+      <div class="span12">
+        <h2 class="section-title">Debugger</h2>
+        <p>At any time during the development, you can access the debugger, which provides
+          information about how Dandelion processes the current request. As such, feel free to test
+          it in any page of the application!</p>
+        <p>
+          In order to display the debugger, just manually add the
+          <code>ddl-debug</code>
+          parameter to the current URL.
+        </p>
+        <p class="text-center">
+          <a href="?ddl-debug" class="btn btn-lg btn-primary"
+            th:text="'Go to ' + @{/debugger?ddl-debug}">Try with this page</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

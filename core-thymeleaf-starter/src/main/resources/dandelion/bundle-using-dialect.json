@@ -1,0 +1,10 @@
+{
+	"dependencies" : [ "jquery" ],
+    "assets": [
+        {
+        	"locations": {
+        		"webapp": "/assets/js/asset-dialect.js"
+        	}
+        }
+    ]
+}

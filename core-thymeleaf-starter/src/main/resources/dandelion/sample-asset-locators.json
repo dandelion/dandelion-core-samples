@@ -1,0 +1,14 @@
+{
+    "assets": [
+		{
+		    "locations": {
+		        "webapp": "/assets/js/asset-webapp.js"
+		    }
+		},
+		{
+		    "locations": {
+		        "classpath": "asset-classpath.js"
+		    }
+		}
+    ]
+}
