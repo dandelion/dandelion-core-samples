@@ -8,7 +8,7 @@
    <version>1.0.0-SNAPSHOT</version>
    <packaging>war</packaging>
 
-   <name>Dandelion :: Core :: Samples :: core-thymeleaf-webjar</name>
+   <name>Dandelion :: Core :: Samples :: core-thymeleaf-webjars</name>
 
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
