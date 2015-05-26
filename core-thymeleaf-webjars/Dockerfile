@@ -11,5 +11,5 @@ ADD . /home/dandelion
 # Remove sources to make the image thinner
 RUN cd /home/dandelion && \
     mvn package && \
-    cp -r target/core-tml-webjars /usr/local/tomcat/webapps/ && \
+    cp -r target/core-thymeleaf-webjars /usr/local/tomcat/webapps/ && \
     rm -rf /home/dandelion
