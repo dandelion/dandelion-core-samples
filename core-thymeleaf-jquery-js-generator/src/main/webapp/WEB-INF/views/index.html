@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:include="common/head::head" />
+<body>
+  <div th:replace="common/navbar::navbar"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <p>The list below is displayed using generated JavaScript.</p>
+        <p>
+          A
+          <code>CustomJQueryContent</code>
+          tells to the instanciated
+          <code>JQueryJsContentGenerator</code>
+          how to fill jQuery placeholders.
+        </p>
+        <p>
+          Look at the
+          <code>&lt;script></code>
+          in the HTML source code to see what code the generator has produced. has produced.
+        </p>
+        <div id="msg"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

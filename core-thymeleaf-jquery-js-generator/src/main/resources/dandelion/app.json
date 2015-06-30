@@ -1,0 +1,12 @@
+{
+    "dependencies" : ["jquery"],
+    "assets": [
+		{
+			"name" : "generated",
+			"type" : "js",
+		    "locations": {
+		        "api": "myApp"
+		    }
+		}
+    ]
+}

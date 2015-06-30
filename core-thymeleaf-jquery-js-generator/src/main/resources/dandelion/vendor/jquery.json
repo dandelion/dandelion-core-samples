@@ -1,0 +1,12 @@
+{
+    "assets": [
+		{
+		    "name": "jquery",
+		    "version": "1.11.3",
+		    "type": "js",
+		    "locations": {
+		        "remote": "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.js"
+		    }
+		}
+    ]
+}
