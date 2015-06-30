@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
-<a href="https://github.com/dandelion/dandelion-samples"> <img
+<a href="https://github.com/dandelion/dandelion-core-samples"> <img
   style="position: fixed; top: 0; left: 0; border: 0; z-index: 1500;"
   src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png" alt="Fork me on GitHub" />
 </a>
