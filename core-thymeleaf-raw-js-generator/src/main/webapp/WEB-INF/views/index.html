@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:include="common/head::head" />
+<body>
+  <div th:replace="common/navbar::navbar"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <p>The list below is displayed using generated JavaScript.</p>
+        <p>
+          The
+          <code>CustomRawGenerator</code>
+          has grabbed the
+          <code>persons</code>
+          attribute from the current
+          <code>HttpServletRequest</code>
+          and converted the given list of POJO into a HTML list.
+        </p>
+        <p>
+          Look at the
+          <code>&lt;script></code>
+          in the HTML source code to see what the
+          <code>CustomRawGenerator</code>
+          has produced.
+        </p>
+        <div id="msg"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+    "assets": [
+		{
+		    "name" : "generated",
+		    "type" : "js",
+		    "locations": {
+		        "api": "my-generator"
+		    }
+		}
+    ]
+}
