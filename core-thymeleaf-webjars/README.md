@@ -6,7 +6,7 @@ A sample application which shows how to configure bundles with WebJars.
 ## Technology stack
 
  - Thymeleaf 2.1.4.RELEASE
- - Dandelion 1.0.0
+ - Dandelion 1.0.1-SNAPSHOT
  - Spring 3.2.10.RELEASE
 
 ## Features
