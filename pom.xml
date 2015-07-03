@@ -15,7 +15,7 @@
    <name>Dandelion :: Core :: Samples :: BOM</name>
    <description>BOM for all sample applications of Dandelion-Core
    </description>
-   <url>http://dandelion.github.io</url>
+   <url>http://dandelion.github.io/components/core</url>
    <inceptionYear>2013</inceptionYear>
    <organization>
       <name>Dandelion Project</name>
@@ -27,7 +27,7 @@
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
       <!-- Dependencies -->
-      <dandelion.version>1.0.1-SNAPSHOT</dandelion.version>
+      <dandelion.version>1.0.1</dandelion.version>
       <jstl.version>1.2</jstl.version>
       <tiles.version>2.2.2</tiles.version>
       <servlet-api.version>3.0.1</servlet-api.version>
