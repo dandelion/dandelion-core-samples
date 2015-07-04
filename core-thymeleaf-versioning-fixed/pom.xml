@@ -5,7 +5,7 @@
 
    <groupId>com.github.dandelion</groupId>
    <artifactId>core-thymeleaf-versioning-fixed</artifactId>
-   <version>1.0.0</version>
+   <version>1.0.1-SNAPSHOT</version>
    <packaging>war</packaging>
 
    <name>Dandelion :: Core :: Samples :: core-thymeleaf-versioning-fixed</name>
@@ -19,7 +19,7 @@
          <dependency>
             <groupId>com.github.dandelion</groupId>
             <artifactId>dandelion-core-samples-bom</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1-SNAPSHOT</version>
             <type>pom</type>
             <scope>import</scope>
          </dependency>
