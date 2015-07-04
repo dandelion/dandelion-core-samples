@@ -6,7 +6,7 @@ A sample application which shows the key concepts around Dandelion: assets, asse
 ## Technology stack
 
  - Thymeleaf 2.1.4.RELEASE
- - Dandelion 1.0.1-SNAPSHOT
+ - Dandelion 1.0.1
  - Spring 3.2.10.RELEASE
 
 ## Features

@@ -7,7 +7,7 @@ The original sample application live here: https://github.com/spring-projects/sp
 
 ## Technology stack
 
- - Dandelion 1.0.1-SNAPSHOT
+ - Dandelion 1.0.1
  - Spring 4.1.6.RELEASE
  - Spring Data JPA 1.8.0.RELEASE
  - Hibernate 4.3.8.Final
