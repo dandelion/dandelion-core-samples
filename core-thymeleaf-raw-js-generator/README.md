@@ -6,7 +6,7 @@ A sample application which shows how to configure a fixed versioning using Maven
 ## Technology stack
 
  - Thymeleaf 2.1.4.RELEASE
- - Dandelion 1.0.1
+ - Dandelion 1.1.0-SNAPSHOT
  - Spring 3.2.10.RELEASE
 
 ## Features

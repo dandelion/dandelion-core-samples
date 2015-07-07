@@ -9,6 +9,11 @@
 		    "locations": {
 		        "classpath": "asset-classpath.js"
 		    }
+		},
+		{
+		    "locations": {
+		        "file": "C:\\Users\\thibz\\workspaces\\dandelion\\Dandelion\\dandelion-core-samples\\core-jsp-starter\\src\\main\\resources\\asset-file.js"
+		    }
 		}
     ]
 }
