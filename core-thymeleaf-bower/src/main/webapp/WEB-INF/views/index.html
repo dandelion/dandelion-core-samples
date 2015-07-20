@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:include="common/head::head" />
+<body>
+  <div th:replace="common/navbar::navbar"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Welcome to Dandelion!</h2>
+        <p>
+          In this sample, two <i>vendor bundles</i> are loaded:
+        </p>
+        <ul>
+          <li><code>jquery</code>: which is scanned by the <code>BowerPreLoader</code> within
+            the <code>bower_components</code> folder</li>
+          <li><code>bootstrap3</code>: which is scanned within the classpath</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
