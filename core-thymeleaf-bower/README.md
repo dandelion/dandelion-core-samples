@@ -6,7 +6,7 @@ A sample application that uses the BowerPreLoader to pre-load vendor bundles. Al
 ## Technology stack
 
  - Thymeleaf 2.1.4.RELEASE
- - Dandelion 1.1.0-SNAPSHOT
+ - Dandelion 1.1.0
  - Spring 3.2.10.RELEASE
 
 ## Features
