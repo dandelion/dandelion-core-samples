@@ -77,58 +77,6 @@
             <artifactId>dandelion-webjars</artifactId>
             <version>${dandelion.version}</version>
          </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>dandelion-yuicompressor</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-
-         <!-- Dandelion-Datatables -->
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-jsp</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-thymeleaf</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-spring3</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-compression-yui</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-export-poi</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-export-poi-ooxml</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-export-itext</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-struts1</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
-         <dependency>
-            <groupId>com.github.dandelion</groupId>
-            <artifactId>datatables-struts2</artifactId>
-            <version>${dandelion.version}</version>
-         </dependency>
 
          <!-- Spring 3 -->
          <dependency>
