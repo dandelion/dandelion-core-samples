@@ -18,8 +18,8 @@
       <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
       <!-- Spring -->
-      <spring-framework.version>4.1.6.RELEASE</spring-framework.version>
-      <spring-data-jpa.version>1.8.0.RELEASE</spring-data-jpa.version>
+      <spring-framework.version>4.3.15.RELEASE</spring-framework.version>
+      <spring-data-jpa.version>1.11.11.RELEASE</spring-data-jpa.version>
 
 
       <!-- Java EE / Java SE dependencies -->
@@ -344,7 +344,7 @@
             <version>3.0</version>
             <configuration>
                <compilerArguments>
-                  <Xlint />
+                  <Xlint/>
                </compilerArguments>
                <verbose>true</verbose>
                <source>${java.version}</source>
